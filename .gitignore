@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+gpt2/
+*.pth
+*.pt
+*.ckpt
+data/
+datasets/
+logs/
+outputs/
